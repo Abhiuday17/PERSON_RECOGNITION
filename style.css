@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+.heading{
+    font-size: 22px ;
+    width: 60%;
+}
+.name_of_people{
+    color: rgb(0, 2, 95);
+}
+#camera{
+    width : 350px;
+    height: 300px ;
+    border: 1px solid black;
+}
